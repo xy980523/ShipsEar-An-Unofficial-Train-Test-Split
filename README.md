@@ -22,3 +22,7 @@ This repo is intended to provide an unofficial training-test split for works see
 |Sailboat|Sailboat_37__19_07_13_Velero_Sale.wav <br> Sailboat_57__23_07_13_H3_velero2.wav <br> Sailboat_68__23_07_13_H3_veleroMarisol.wav |Sailboat_56__23_07_13_H3_velero1.wav|
 |Trawler|Trawler_28__19_07_13_NuevoRiaAldan.wav [15-125 second] |Trawler_28__19_07_13_NuevoRiaAldan.wav [125-163 second]|
 |Tugboat|Tugboat_15__10_07_13_radaUno_Pasa.wav|Tugboat_31__19_07_13_RemolcadorArrancaPara.wav|
+
+It is worth mentioning that the ``Trawler'' category has only one recording, so when dividing the training and test sets, this recording is divided into two non-overlapping segments, which can be downloaded at:  
+https://github.com/xy980523/ShipsEar-An-Unofficial-Train-Test-Split/releases/download/main/Trawler_28__19_07_13_NuevoRiaAldan_train.wav  
+https://github.com/xy980523/ShipsEar-An-Unofficial-Train-Test-Split/releases/download/main/Trawler_28__19_07_13_NuevoRiaAldan_test.wav
