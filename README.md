@@ -32,6 +32,13 @@ Based on your approach, you can select the appropriate task (or both) and utiliz
 
 ## Existing work using this Train-Test Split
 
+|Work|Task|Accuracy 30s-level|Accuracy file-level|DOI|
+| ---- | ---- | ---- | ---- | ---- |
+|SIR & LMR| 9-class | 83.45 | - | https://doi.org/10.1016/j.oceaneng.2023.114926 |
+|To be continued|9-class||||
+| |||||
+|To be continued|12-class||||
+
 ## Train-Test Split for 9 classes
 |Category|Training set| Test set|
 | ---- | ---- | ---- |
