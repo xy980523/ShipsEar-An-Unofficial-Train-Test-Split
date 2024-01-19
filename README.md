@@ -15,7 +15,8 @@ An unofficial train-test split for ShipsEar: An underwater vessel noise database
 }
 ```
 However, the official train-test split is unavailable, which hinders fair comparisons across various works.   
-This repository aims to address this limitation by providing an unofficial **training-test split**, enabling works to achieve **fair comparisons** and **credible benchmarks**.   
+This repository aims to address this limitation by providing an unofficial **training-test split**, enabling works to achieve **fair comparisons** and **credible benchmarks**.  
+We hope that by providing this training-test split, it will contribute to the growth and advancement of the academic community in the field of underwater acoustics.
 
 
 
@@ -38,6 +39,21 @@ Based on your approach, you can select the appropriate task (or both) and utiliz
 |To be continued|9-class||||
 | |||||
 |To be continued|12-class||||
+
+## Citation
+If you have utilized the training-test split provided by this repository, we kindly request that you reference the following article in your work:  
+```
+@article{xu2023underwater,
+  title={Underwater acoustic target recognition based on smoothness-inducing regularization and spectrogram-based data augmentation},
+  author={Xu, Ji and Xie, Yuan and Wang, Wenchao},
+  journal={Ocean Engineering},
+  volume={281},
+  pages={114926},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
 
 ## Train-Test Split for 9 classes
 |Category|Training set| Test set|
