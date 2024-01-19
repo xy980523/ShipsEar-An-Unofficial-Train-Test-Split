@@ -2,9 +2,9 @@
 An unofficial train-test split for ShipsEar: An underwater vessel noise database
 
 ## Background
-**The ShipsEar dataset** (https://doi.org/10.1016/j.apacoust.2016.06.008) is one of the most commonly used underwater noise databases and is widely used in the field of underwater acoustics.    
-However, the official train-test split is not available, which prevents fair comparisons for many works.  
-This repo is intended to provide an unofficial **training-test split** for works seeking **fair comparisons and credible benchmarks**.  
+**The ShipsEar dataset** (https://doi.org/10.1016/j.apacoust.2016.06.008) is widely used in the field of underwater acoustics as one of the most commonly utilized underwater noise databases.  
+However, the official train-test split is unavailable, which hinders fair comparisons across various works.   
+This repository aims to address this limitation by providing an unofficial **training-test split**, enabling works to achieve **fair comparisons** and **credible benchmarks**.   
 
 ```
 @article{santos2016shipsear,
@@ -19,13 +19,15 @@ This repo is intended to provide an unofficial **training-test split** for works
 ```
 
 ## Train-Test Split
-This repo releases two train-test-split for the following tasks:
-1. 9-class recognition for ``Dredger, Fishboat, Motorboat, Musselboat, Naturalambientnoise, Oceanliner, Passengers, RORO, Sailboat''. The remaining three categories (Pilotship, Trawler, Tugboat) are not adopted due to the few number of recordings.   
-2. 12-class recognition for ``Dredger, Fishboat, Motorboat, Musselboat, Naturalambientnoise, Oceanliner, Passengers, Pilotship, RORO, Sailboat, Trawler, Tugboat''
+This repository offers two train-test splits for the following tasks:   
+1. 9-class recognition involving "Dredger, Fishboat, Motorboat, Musselboat, Naturalambientnoise, Oceanliner, Passengers, RORO, Sailboat." The remaining three categories (Pilotship, Trawler, Tugboat) are excluded due to the limited number of recordings available.    
+3. 12-class recognition encompassing "Dredger, Fishboat, Motorboat, Musselboat, Naturalambientnoise, Oceanliner, Passengers, Pilotship, RORO, Sailboat, Trawler, Tugboat."
 
-To prevent the model from overfitting to specific test data, we give different train-test-splits for 9-class and 12-class recognition. If the model can achieve promising performance in both 9-class and 12-class recognition, this can prove its generalization ability.
-12-class recognition is more difficult because it tests the model’s few-shot learning capabilities. 9-class recognition is relatively simpler since the amount of data in each class is relatively sufficient.  
-You can pick the appropriate task (or both) based on your approach and apply the corresponding train-test-split.
+To prevent the model from overfitting to specific test data, distinct train-test splits are provided for 9-class and 12-class recognition. If the model demonstrates promising performance in both 9-class and 12-class recognition, it substantiates its generalization ability.  
+
+Notably, 12-class recognition poses a greater challenge as it evaluates the model's few-shot learning capabilities. Conversely, 9-class recognition is relatively simpler due to the relatively sufficient amount of data available in each class.   
+
+Based on your approach, you can select the appropriate task (or both) and utilize the corresponding train-test split.    
 
 ## Existing work using this Train-Test Split
 
@@ -42,7 +44,7 @@ You can pick the appropriate task (or both) based on your approach and apply the
 |RORO|RORO_18__18_07_13_AutoPrideEntra.wav <br> RORO_19__18_07_13_AutoprideMarchaAtras.wav <br> RORO_58__23_07_13_H2_EimskipReefer_Pesquerito1.wav|RORO_20__18_07_13_AutopridePrepManiobra.wav <br> RORO_78__23_07_13_H3_vikingChance.wav|
 |Sailboat|Sailboat_37__19_07_13_Velero_Sale.wav <br> Sailboat_56__23_07_13_H3_velero1.wav <br> Sailboat_68__23_07_13_H3_veleroMarisol.wav|Sailboat_57__23_07_13_H3_velero2.wav|
 | ---- | ---- | ---- |
-|Total Number|64|21|
+|Total Number|64 recordings|21 recordings|
 
 
 
@@ -63,7 +65,7 @@ You can pick the appropriate task (or both) based on your approach and apply the
 |Trawler|Trawler_28__19_07_13_NuevoRiaAldan.wav [15-125 second] |Trawler_28__19_07_13_NuevoRiaAldan.wav [125-163 second]|
 |Tugboat|Tugboat_15__10_07_13_radaUno_Pasa.wav|Tugboat_31__19_07_13_RemolcadorArrancaPara.wav|
 | ---- | ---- | ---- |
-|Total Number|65|26|
+|Total Number|65 recordings|26 recordings|
 
 
 It is worth mentioning that the ``Trawler'' category has only one recording, so when dividing the training and test sets, this recording is divided into two non-overlapping segments, which can be downloaded at:  
