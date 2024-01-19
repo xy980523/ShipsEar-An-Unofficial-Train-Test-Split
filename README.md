@@ -42,7 +42,9 @@ Based on your approach, you can select the appropriate task (or both) and utiliz
 
 ## Citation
 If you have utilized the training-test split provided by this repository, we kindly request that you reference the following article in your work:  
+
 ```
+# IF YOU USE 9-CLASS SPLIT, PLEASE CITE:
 @article{xu2023underwater,
   title={Underwater acoustic target recognition based on smoothness-inducing regularization and spectrogram-based data augmentation},
   author={Xu, Ji and Xie, Yuan and Wang, Wenchao},
@@ -52,6 +54,9 @@ If you have utilized the training-test split provided by this repository, we kin
   year={2023},
   publisher={Elsevier}
 }
+
+# IF YOU USE 12-CLASS SPLIT, PLEASE CITE:
+...
 ```
 
 
