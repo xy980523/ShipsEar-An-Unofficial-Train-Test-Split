@@ -6,6 +6,17 @@ An unofficial train-test split for ShipsEar: An underwater vessel noise database
 However, the official train-test split is not available, which prevents fair comparisons for many works.  
 This repo is intended to provide an unofficial **training-test split** for works seeking **fair comparisons and credible benchmarks**.  
 
+'''
+@article{santos2016shipsear,
+  title={ShipsEar: An underwater vessel noise database},
+  author={Santos-Dom{\'\i}nguez, David and Torres-Guijarro, Soledad and Cardenal-L{\'o}pez, Antonio and Pena-Gimenez, Antonio},
+  journal={Applied Acoustics},
+  volume={113},
+  pages={64--69},
+  year={2016},
+  publisher={Elsevier}
+}
+'''
 
 ## Train-Test Split
 This repo releases two train-test-split for the following tasks:
