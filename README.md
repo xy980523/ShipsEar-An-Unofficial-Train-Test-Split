@@ -33,8 +33,8 @@ Based on your approach, you can select the appropriate task (or both) and utiliz
 
 ## Existing work using this Train-Test Split
 
-|Work|Task|Accuracy 30s-level|CKPT|DOI|
-| ---- | ---- | ---- | ---- | ---- | ---- |
+|Work|Task|Accuracy 30s-level|checkpoint|DOI|
+| ---- | ---- | ---- | ---- | ---- |
 |SIR & LMR| 9-class | 83.45 | - | https://doi.org/10.1016/j.oceaneng.2023.114926 |
 |CMoE|9-class|86.21| - |https://doi.org/10.1016/j.eswa.2024.123431|
 |To be continued|9-class||||
