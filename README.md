@@ -5,7 +5,8 @@ An unofficial train-test split for ShipsEar: An underwater vessel noise database
 **The ShipsEar dataset** (https://doi.org/10.1016/j.apacoust.2016.06.008) is widely used in the field of underwater acoustics as one of the most commonly utilized underwater noise databases.    
 
 However, the official train-test split is unavailable, which hinders fair comparisons across various works.   
-This repository aims to address this limitation by providing an unofficial **training-test split**, enabling works to achieve **fair comparisons** and **credible benchmarks**.  
+This repository aims to address this limitation by providing an unofficial **training-test split**, enabling works to achieve **fair comparisons** and **credible benchmarks**.   
+
 We hope that by providing this training-test split, it will contribute to the growth and advancement of the academic community in the field of underwater acoustics.
 
 
@@ -49,6 +50,7 @@ If you have utilized the training-test split provided by this repository, we kin
 ...
 
 
+# Also, do not forget to cite:
 @article{santos2016shipsear,
   title={ShipsEar: An underwater vessel noise database},
   author={Santos-Dom{\'\i}nguez, David and Torres-Guijarro, Soledad and Cardenal-L{\'o}pez, Antonio and Pena-Gimenez, Antonio},
