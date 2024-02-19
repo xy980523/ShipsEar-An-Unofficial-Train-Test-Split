@@ -33,8 +33,8 @@ Based on your approach, you can select the appropriate task (or both) and utiliz
 
 ## Existing work using this Train-Test Split
 
-|Work|Task|Accuracy 30s-level|Accuracy file-level|DOI|
-| ---- | ---- | ---- | ---- | ---- |
+|Work|Task|Accuracy 30s-level|CKPT|DOI|
+| ---- | ---- | ---- | ---- | ---- | ---- |
 |SIR & LMR| 9-class | 83.45 | - | https://doi.org/10.1016/j.oceaneng.2023.114926 |
 |CMoE|9-class|86.21| - |https://doi.org/10.1016/j.eswa.2024.123431|
 |To be continued|9-class||||
@@ -46,16 +46,14 @@ If you have utilized the training-test split provided by this repository, we kin
 
 ```
 # IF YOU USE 9-CLASS SPLIT, PLEASE CITE:
-@article{xu2023underwater,
-  title={Underwater acoustic target recognition based on smoothness-inducing regularization and spectrogram-based data augmentation},
-  author={Xu, Ji and Xie, Yuan and Wang, Wenchao},
-  journal={Ocean Engineering},
-  volume={281},
-  pages={114926},
-  year={2023},
+@article{xie2024unraveling,
+  title={Unraveling complex data diversity in underwater acoustic target recognition through convolution-based mixture of experts},
+  author={Xie, Yuan and Ren, Jiawei and Xu, Ji},
+  journal={Expert Systems with Applications},
+  pages={123431},
+  year={2024},
   publisher={Elsevier}
 }
-
 # IF YOU USE 12-CLASS SPLIT, PLEASE CITE:
 ...
 ```
