@@ -1,0 +1,91 @@
+ids	label	local	date	chanel_depth	wind	distance	image_id
+6	Passengers	Cangas ships departure	July 	4.8	0	0-50	4
+7	Passengers	Cangas ships departure	July 	4.8	0	0-50	4
+8	Passengers	Cangas ships departure	July 	4.8	0	0-50	2
+9	Passengers	Cangas ships departure	July 	4.8	0	0-50	2
+10	Passengers	Cangas ships departure	July 	4.8	0	0-50	2
+11	Passengers	Cangas ships departure	July 	4.8	0	0-50	5
+12	Passengers	Cangas ships departure	July 	4.8	0	0-50	5
+13	Passengers	Cangas ships departure	July 	4.8	0	0-50	3
+14	Passengers	Cangas ships departure	July 	4.8	0	0-50	3
+15	Tugboat	Ocean liners harbour	July 	9.1	0	0-50	N.A.
+16	Ocean liner	Ocean liner harbour	July 	9.1	0	0-50	7
+17	Passengers	Cangas ships departure	July 	4.8	0	0-50	6
+18	RORO	Bouzas Cove	July 	7.5	2	0-50	9
+19	RORO	Bouzas Cove	July 	7.5	2	0-50	9
+20	RORO	Bouzas Cove	July 	7.5	2	0-50	9
+21	Motorboat	Bouzas Cove	July 	9.1	0	0-50	8
+22	Ocean liner	In front of ocean liners harbour	July 	5.8	0	0-50	17
+23	Ocean liner	In front of ocean liners harbour	July 	5.8	0	0-50	17
+24	Ocean liner	In front of ocean linersOcean liner harbour	July 	5.8	0	0-50	17
+25	Ocean liner	In front of ocean liners harbour	July 	5.8	0	0-50	17
+26	Motorboat	In front of ocean liners harbour	July 	5.8	0	0-50	13
+27	Motorboat	In front of ocean liners harbour	July 	5.8	0	0-50	13
+28	Trawler	In front of ocean liners harbour	July 	5.8	0	0-50	14
+29	Pilot ship	In front of ocean liners harbour	July 	5.8	0	0-50	16
+30	Pilot ship	In front of ocean liners harbour	July 	5.8	0	0-50	16
+31	Tugboat	In front of ocean liners harbour	July 	5.8	0	0-50	15
+32	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	10
+33	Motorboat	Red lighthouse at the port	July 	5.8	13	0-50	11
+34	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	2
+35	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	2
+36	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	5
+37	Sailboat	Red lighthouse at the port	July 	5.8	13	0-50	18
+38	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	10
+39	Motorboat	Red lighthouse at the port	July 	5.8	13	0-50	11
+40	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	4
+41	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	5
+42	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	3
+43	Passengers	Red lighthouse at the port	July 	5.8	13	0-50	3
+45	Motorboat	Red lighthouse at the port	July 	5.8	13	0-50	12
+46	Mussel boat	Vigo sea loch - Zone 1	July 	15	10.5	50-100	19
+47	Mussel boat	Vigo sea loch - Zone 1	July 	15	10.5	0-50	23
+48	Mussel boat	Vigo sea loch - Zone 1	July 	15	10.5	0-50	25
+49	Mussel boat	Vigo sea loch - Zone 1	July 	15	10.5	0-50	28
+50	Motorboat	Vigo sea loch - Zone 1	July 	15	10.5	0-50	24
+51	Motorboat	Vigo sea loch - Zone 1	July 	15	10.5	50-100	26
+52	Motorboat	Vigo sea loch - Zone 1	July 	15	10.5	50-100	27
+53	Passengers	Vigo sea loch - Zone 1	July 	15	10.5	50-100	20
+54	Passengers	Vigo sea loch - Zone 1	July 	15	10.5	50-100	20
+55	Passengers	Vigo sea loch - Zone 1	July 	15	10.5	50-100	20
+56	Sailboat	Vigo sea loch - Zone 1	July 	15	10.5	0-50	21
+57	Sailboat	Vigo sea loch - Zone 1	July 	15	10.5	0-50	22
+58	RORO	Vigo sea loch - Zone 2	July 	12	10.5	100-200	29
+59	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	6
+60	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	4
+61	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	4
+62	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	4
+63	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	2
+64	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	2
+65	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	5
+66	Mussel boat	Vigo sea loch - Zone 2	July 	12	10.5	0-50	30
+67	Passengers	Vigo sea loch - Zone 2	July 	12	10.5	50-100	3
+68	Sailboat	Vigo sea loch - Zone 2	July 	12	10.5	0-50	N.A.
+69	Ocean liner	Vigo sea loch - Zone 3	July 	14	18	50-100	32
+70	Motorboat	Vigo sea loch - Zone 3	July 	14	18	0-50	N.A.
+71	Ocean liner	Vigo sea loch - Zone 3	July 	14	18	100-200	31
+72	Motorboat	Vigo sea loch - Zone 3	July 	14	18	0-50	N.A.
+73	Fishboat	Vigo sea loch - Zone 3	July 	14	18	0-50	N.A.
+74	Fishboat	Vigo sea loch - Zone 3	July 	14	18	0-50	N.A.
+75	Fishboat	Vigo sea loch - Zone 3	July 	14	18	0-50	N.A.
+76	Fishboat	Vigo sea loch - Zone 3	July 	14	18	0-50	N.A.
+77	Motorboat	Vigo sea loch - Zone 3	July 	14	18	50-100	N.A.
+78	RORO	Vigo sea loch - Zone 3	July 	14	18	50-100	33
+79	Motorboat	Vigo sea loch - Zone 3	July 	14	18	50-100	N.A.
+80	Dredger	Punta Langosteira	October	20	N.A.	350	1
+81	Natural ambient noise	Intecmar weather station	September	7.5	5.3	0-50	34
+82	Natural ambient noise	Intecmar weather station	September	7.5	3.3	0-50	34
+83	Natural ambient noise	Intecmar weather station	September	7.5	1.9	0-50	34
+84	Natural ambient noise	Intecmar weather station	September	7.5	12.2	0-50	34
+85	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+86	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+87	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+88	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+89	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+90	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+91	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+92	Natural ambient noise	Intecmar weather station	September	7.5	N.A.	0-50	34
+93	Dredger	Moanha dredger test	March	12	N.A.	100	1
+94	Dredger	Moanha dredger test	March	12	N.A.	100	1
+95	Dredger	Moanha dredger test	March	12	N.A.	100	1
+96	Dredger	Moanha dredger test	March	12	N.A.	100	1
