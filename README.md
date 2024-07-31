@@ -46,8 +46,28 @@ If you have utilized the training-test split provided by this repository, we kin
   publisher={Elsevier}
 }
 
+@article{xie2024advancing,
+  title={Advancing robust underwater acoustic target recognition through multitask learning and multi-gate mixture of experts},
+  author={Xie, Yuan and Ren, Jiawei and Li, Junfeng and Xu, Ji},
+  journal={The Journal of the Acoustical Society of America},
+  volume={156},
+  number={1},
+  pages={244--255},
+  year={2024},
+  publisher={AIP Publishing}
+}
+
 # IF YOU USE 12-CLASS SPLIT, PLEASE CITE:
-...
+@article{xie2024adversarial,
+  title={Adversarial multi-task underwater acoustic target recognition: Toward robustness against various influential factors},
+  author={Xie, Yuan and Xu, Ji and Ren, Jiawei and Li, Junfeng},
+  journal={The Journal of the Acoustical Society of America},
+  volume={156},
+  number={1},
+  pages={299--313},
+  year={2024},
+  publisher={AIP Publishing}
+}
 
 
 # Also, do not forget to cite:
