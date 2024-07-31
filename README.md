@@ -28,9 +28,9 @@ Based on your approach, you can select the appropriate task (or both) and utiliz
 | ---- | ---- | ---- | ---- | ---- |
 |SIR & LMR| 9-class | 83.45 | - | https://doi.org/10.1016/j.oceaneng.2023.114926 |
 |CMoE|9-class|86.21| - |https://doi.org/10.1016/j.eswa.2024.123431|
-|To be continued|9-class||||
+|M3-TSE|9-class|87.07±2.43| - |https://doi.org/10.1121/10.0026481|
 | |||||
-|To be continued|12-class||||
+|AMTNet|12-class|80.95±0.84| - |https://doi.org/10.1121/10.0026598|
 
 ## Citation
 If you have utilized the training-test split provided by this repository, we kindly request that you reference the following article in your work:  
