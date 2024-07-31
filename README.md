@@ -27,7 +27,7 @@ Based on your approach, you can select the appropriate task (or both) and utiliz
 |Work|Task|Accuracy 30s-level|Repo|DOI|
 | ---- | ---- | ---- | ---- | ---- |
 |SIR & LMR| 9-class | 83.45 | - | https://doi.org/10.1016/j.oceaneng.2023.114926 |
-|CMoE|9-class|86.21| [-](https://github.com/xy980523/UATR-CMoE) |https://doi.org/10.1016/j.eswa.2024.123431|
+|CMoE|9-class|86.21| [CMoE_code](https://github.com/xy980523/UATR-CMoE) |https://doi.org/10.1016/j.eswa.2024.123431|
 |M3-TSE|9-class|87.07±2.43| - |https://doi.org/10.1121/10.0026481|
 | |||||
 |AMTNet|12-class|80.95±0.84| - |https://doi.org/10.1121/10.0026598|
